@@ -1,0 +1,24 @@
+<% layout('../layout') -%>
+
+<h1>Register new account</h1>
+
+<form action="/register" method="POST">
+
+    <div>
+        <input type="text" placeholder="First name" name="name.first" />
+    </div>                    
+    <div>
+        <input type="text" placeholder="Last name" name="name.last" />
+    </div>
+    <div>
+        <input type="text" placeholder="Email" name="email" />
+    </div>
+    <div>
+        <input type="password" placeholder="Password" name="password" />
+    </div>                    
+
+    <div>
+        <button type="submit">Skapa</button>
+    </div>
+
+</form>
