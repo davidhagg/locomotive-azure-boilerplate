@@ -9,16 +9,16 @@ The account page is protected with your authentication.
 Use as you wish.
 
 ## Components used
-connect & express - web server
-locomotive & locomotive-mongoose - MVC framework
-bootable & bootable-environment - Init helpers for locomotive
-connect-ensure-login - To ensure login for some pages
-ejs & ejs-locals - Template engine with layout support
-azure - Windows Azure
-mongoose & mongoose-types - Database model
-moment - Date & time
-passport & passport-local - Authentication framework
-bcryptjs - To encrypt the passwords stored in the db
+* connect & express - web server
+* locomotive & locomotive-mongoose - MVC framework
+* bootable & bootable-environment - Init helpers for locomotive
+* connect-ensure-login - To ensure login for some pages
+* ejs & ejs-locals - Template engine with layout support
+* azure - Windows Azure
+* mongoose & mongoose-types - Database model
+* moment - Date & time
+* passport & passport-local - Authentication framework
+* bcryptjs - To encrypt the passwords stored in the db
 
 ## Credits
 
